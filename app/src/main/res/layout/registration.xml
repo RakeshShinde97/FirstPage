@@ -9,9 +9,12 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.user.remoteappui.MainActivity">
 
-    <Button
-        android:id="@+id/btnRegister"
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/register" />
+        android:layout_height="match_parent">
+
+
+
+    </FrameLayout>
+
 </RelativeLayout>
