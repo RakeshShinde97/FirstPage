@@ -92,12 +92,15 @@ public class MainActivity extends AppCompatActivity {
         {
             switch (position)
             {
-                case 0 :
-                    Registration res = new Registration();
-                    return res;
+
                 case 1 :
                     Login lg = new Login();
                     return lg;
+
+                case 0 :
+                Registration res = new Registration();
+                return res;
+
                 case 2 :
                     HelpCenter hc = new HelpCenter();
                     return hc;
