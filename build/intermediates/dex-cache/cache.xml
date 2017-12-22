@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\RemoteApplication\FirstPageUI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7155b953caac808875db70a8462bf98790404a7">
+        <dex dex="E:\RemoteApplication\FirstPageUI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1a238be80f1e7ebf487cc01303f7ca08d07ba60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\RemoteApplication\FirstPageUI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\RemoteApplication\FirstPageUI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bc9c83c105b58c96d1b4b0f859a64c56c7da40cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\74612f1e2543385a90bf6055403025840609981e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3014214e5217c66b1fa4224a05ca88b3967e52c">
+        <dex dex="E:\RemoteApplication\FirstPageUI\app\build\intermediates\pre-dexed\debug\classes_e087189f6c9c67aa5e5a2102e46aff2fd6060a47.jar" />
+    </item>
+
+</items>
